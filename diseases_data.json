@@ -1329,7 +1329,84 @@
             "Medicine": "Antiviral Medications and Rest"
         }
     ]
+}],
+    "Diabetes": [{
+    "age": [
+        {
+            "agegroup": "1to12",
+            "symptoms": ["Increased Thirst", "Frequent Urination", "Fatigue"],
+            "Medicine": "Insulin Therapy and Diet Management"
+        },
+        {
+            "agegroup": "13to45",
+            "symptoms": ["Increased Thirst", "Frequent Urination", "Blurred Vision"],
+            "Medicine": "Insulin or Oral Medications and Lifestyle Changes"
+        },
+        {
+            "agegroup": "46to100",
+            "symptoms": ["Fatigue", "Slow Healing Wounds", "Numbness in Extremities"],
+            "Medicine": "Insulin, Oral Medications, and Regular Monitoring"
+        }
+    ]
+}],
+    "Hypertension": [{
+    "age": [
+        {
+            "agegroup": "1to12",
+            "symptoms": ["Headaches", "Fatigue", "Shortness of Breath"],
+            "Medicine": "Lifestyle Changes and Pediatric Antihypertensives"
+        },
+        {
+            "agegroup": "13to45",
+            "symptoms": ["Headaches", "Dizziness", "Chest Pain"],
+            "Medicine": "ACE Inhibitors or Beta Blockers and Lifestyle Modifications"
+        },
+        {
+            "agegroup": "46to100",
+            "symptoms": ["Chest Pain", "Vision Problems", "Fatigue"],
+            "Medicine": "ACE Inhibitors, Diuretics, and Regular Monitoring"
+        }
+    ]
+}],
+    "Heart Disease": [{
+    "age": [
+        {
+            "agegroup": "1to12",
+            "symptoms": ["Fatigue", "Poor Circulation", "Shortness of Breath"],
+            "Medicine": "Pediatric Heart Medications and Surgery (if needed)"
+        },
+        {
+            "agegroup": "13to45",
+            "symptoms": ["Chest Pain", "Shortness of Breath", "Palpitations"],
+            "Medicine": "Beta Blockers, Statins, and Lifestyle Changes"
+        },
+        {
+            "agegroup": "46to100",
+            "symptoms": ["Angina", "Shortness of Breath", "Fatigue"],
+            "Medicine": "Statins, Blood Thinners, and Regular Monitoring"
+        }
+    ]
+}],
+    "Chronic Kidney Disease": [{
+    "age": [
+        {
+            "agegroup": "1to12",
+            "symptoms": ["Swelling", "Fatigue", "Poor Appetite"],
+            "Medicine": "Dialysis (if necessary), Low Protein Diet, Medications"
+        },
+        {
+            "agegroup": "13to45",
+            "symptoms": ["Fatigue", "Swelling in Legs", "Urination Problems"],
+            "Medicine": "ACE Inhibitors, Dialysis, and Kidney Transplant (if needed)"
+        },
+        {
+            "agegroup": "46to100",
+            "symptoms": ["High Blood Pressure", "Swelling", "Fatigue"],
+            "Medicine": "Dialysis, Blood Pressure Medications, and Regular Monitoring"
+        }
+    ]
 }]
+
 
 
 }]}
